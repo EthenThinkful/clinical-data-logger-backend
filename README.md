@@ -2,7 +2,7 @@
 Spring Boot Backend Code for Clinical Data Logging Application
 
 Live Project: http://clinicaldataloggerfe.s3-website-us-east-1.amazonaws.com/
-## See frontend repo here: <br/>
+## Frontend Repository: <br/>
 https://github.com/EthenThinkful/ClinicalDataLogger
 
 ### Overview
